@@ -39,11 +39,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
 #EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/banglatv.png" group-title="Bangla",Bangla TV
 https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/banglavision.png" group-title="Bangla",Bangla Vision
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/Banglavision.png" group-title="Bangla",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1181200.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/banglavision.png" group-title="Bangla",Bangla Vision TV
+#EXTINF:-1 tvg-name="Bangla Vision TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/Banglavision.png" group-title="Bangla",Bangla Vision TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="Bangla Vison" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/banglavision.png" group-title="Bangla",Bangla Vison
+#EXTINF:-1 tvg-name="Bangla Vison" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/Banglavision.png" group-title="Bangla",Bangla Vison
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-name="BanglaPlusHD" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/banglaplus.png" group-title="Bangla",BanglaPlusHD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
