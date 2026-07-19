@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_24.png" group-title="Bangla",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/Al_Jazeera.png" group-title="Intenational News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
@@ -7,6 +7,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
 #EXTINF:-1 tvg-name="bangla Betar" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/bangladesh_betar.png" group-title="Radio",bangla Betar
 https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/bein_sports_1.png" group-title="Sports",Bein Sports 1
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1🎯" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/bein_sports_1.png" group-title="Sports",Bein Sports 1🎯
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla UK" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/atn_bangla_uk.png" group-title="Bangla",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ATN NEWS" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/atn_news.png" group-title="Bangla",ATN NEWS
@@ -23,7 +27,7 @@ https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/btv_sangsad.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="BTV National" group-title="Bangla",BTV National
+#EXTINF:-1 tvg-name="BTV National" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/btv_national.png" group-title="Bangla",BTV National
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BTV Sangsad" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/btv_sangsad.png" group-title="Bangla",BTV Sangsad
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
@@ -45,105 +49,105 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/bijoytv.png" group-title="Bangla",Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
-#EXTINF:-1 tvg-name="CHANNEL S UK" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",CHANNEL S UK
+#EXTINF:-1 tvg-name="CHANNEL S UK" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/chanells.png" group-title="Bangla",CHANNEL S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 1
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_1.png" group-title="Bangla",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 1
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_1.png" group-title="Bangla",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 1
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_1.png" group-title="Bangla",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_24.png" group-title="Bangla",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_24.png" group-title="Bangla",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_24.png" group-title="Bangla",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 9
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_9.png" group-title="Bangla",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 9
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_9.png" group-title="Bangla",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel 9 HD
+#EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_9.png" group-title="Bangla",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channeli.png" group-title="Bangla",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channeli.png" group-title="Bangla",Channel I
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
-#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel S
+#EXTINF:-1 tvg-name="Channel S" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_s.png" group-title="Bangla",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Channel S (576p)" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel S (576p)
+#EXTINF:-1 tvg-name="Channel S (576p)" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/chanells.png" group-title="Bangla",Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Channel S TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Channel S TV
+#EXTINF:-1 tvg-name="Channel S TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channel_s.png" group-title="Bangla",Channel S TV
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Channel i" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/channeli.png" group-title="Bangla",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",DBC News
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/dbc.png" group-title="Bangla",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Deepto TV
+#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/deepto.png" group-title="Bangla",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Deepto TV
+#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/deepto.png" group-title="Bangla",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Deepto TV
+#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/deepto.png" group-title="Bangla",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="Deepto Tv" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Deepto Tv
+#EXTINF:-1 tvg-name="Deepto Tv" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/deepto.png" group-title="Bangla",Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-name="Deepto Tv" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Deepto Tv
+#EXTINF:-1 tvg-name="Deepto Tv" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/deepto.png" group-title="Bangla",Deepto Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Desh TV
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/desh.png" group-title="Bangla",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-name="Ekattor HD 71" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Ekattor HD 71
+#EXTINF:-1 tvg-name="Ekattor HD 71" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/ekattor.png" group-title="Bangla",Ekattor HD 71
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="Ekushay TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Ekushay TV
+#EXTINF:-1 tvg-name="Ekushay TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/ekushey.png" group-title="Bangla",Ekushay TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-name="Ekushay TV (Local)" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Ekushay TV (Local)
+#EXTINF:-1 tvg-name="Ekushay TV (Local)" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/ekushey.png" group-title="Bangla",Ekushay TV (Local)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-name="G-Series" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",G-Series
+#EXTINF:-1 tvg-name="G-Series" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/G_series.png" group-title="Bangla",G-Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",INDEPENDENT TV
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/independent.png" group-title="Bangla",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Independent TV
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/independent.png" group-title="Bangla",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Independent TV
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/independent.png" group-title="Bangla",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",JAMUNA TV
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/jamuna.png" group-title="Bangla",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="MAASRANGA HD" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",MAASRANGA HD
+#EXTINF:-1 tvg-name="MAASRANGA HD" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/maasranga.png" group-title="Bangla",MAASRANGA HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
-#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Maasranga
+#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/maasranga.png" group-title="Bangla",Maasranga
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Maasranga TV
+#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/maasranga.png" group-title="Bangla",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Mohona TV
+#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/mohonatv.png" group-title="Bangla",Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Movie Bangla
+#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/movie_bangla.png" group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/ntv.png" group-title="Bangla",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/ntv.png" group-title="Bangla",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-name="News24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",News24
+#EXTINF:-1 tvg-name="News24" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/news24.png" group-title="Bangla",News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",RTV
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/rtv.png" group-title="Bangla",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Rajdhani TV
+#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/rajdhanitv.png" group-title="Bangla",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-name="Somoy News TV (1080p)" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Somoy News TV (1080p)
+#EXTINF:-1 tvg-name="Somoy News TV (1080p)" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/somoytv.png" group-title="Bangla",Somoy News TV (1080p)
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
-#EXTINF:-1 tvg-name="Somoy TV 🇧🇩 bangla" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Somoy TV 🇧🇩 bangla
+#EXTINF:-1 tvg-name="Somoy TV 🇧🇩 bangla" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/somoytv.png" group-title="Bangla",Somoy TV 🇧🇩 bangla
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/422.ts
-#EXTINF:-1 tvg-name="SomoyTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",SomoyTV
+#EXTINF:-1 tvg-name="SomoyTV" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/somoytv.png" group-title="Bangla",SomoyTV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Star News
+#EXTINF:-1 tvg-name="Star News" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/star_news.png" group-title="Bangla",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",T sports
+#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/tsports.png" group-title="Bangla",T sports
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",T sports
+#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/tsports.png" group-title="Bangla",T sports
 http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",T sports
+#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/tsports.png" group-title="Bangla",T sports
 http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-name="T sports" group-title="Bangla",T sports
+#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/tsports.png" group-title="Bangla",T sports
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="T sports" group-title="Bangla",T sports
+#EXTINF:-1 tvg-name="T sports" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/tsports.png" group-title="Bangla",T sports
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Thikana Tv" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/.png" group-title="Bangla",Thikana Tv
+#EXTINF:-1 tvg-name="Thikana Tv" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/thikana.png" group-title="Bangla",Thikana Tv
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
