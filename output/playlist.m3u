@@ -5,7 +5,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/bbc.png" group-title="Radio",BBC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1 tvg-name="bangla Betar" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/bangladesh_betar.png" group-title="Radio",bangla Betar
+#EXTINF:-1 tvg-name="bangla Betar" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/Bangladesh_betar.png" group-title="Radio",bangla Betar
 https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/bein_sports_1.png" group-title="Sports",Bein Sports 1
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
