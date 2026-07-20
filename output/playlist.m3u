@@ -151,3 +151,9 @@ https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Thikana Tv" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/thikana.png" group-title="Bangla",Thikana Tv
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Gold Select HD (1080p)" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="India",Star Gold Select HD (1080p)
+http://103.253.18.58:8000/play/a02u
+#EXTINF:-1 tvg-name="Star Jalsha SD" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/star_jalsha.png" group-title="Indian Bangla",Star Jalsha SD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/amolroybd/myiptv/main/logos/zee_bangla.png" group-title="Indian Bangla",Zee Bangla
+http://103.180.212.191:3500/live/625.m3u8
